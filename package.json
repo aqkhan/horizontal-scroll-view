@@ -1,0 +1,27 @@
+{
+  "name": "@alphasquad/horizontal-scroll-view",
+  "version": "1.0.0",
+  "description": "Horizontal scroll view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqkhan/react-horizontal-scroll-view.git"
+  },
+  "keywords": [
+    "horizontal",
+    "scroll",
+    "view",
+    "scroll-view",
+    "horizontal-scroll",
+    "horizontal-scroll-view"
+  ],
+  "author": "AlphaSquad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqkhan/react-horizontal-scroll-view/issues"
+  },
+  "homepage": "https://github.com/aqkhan/react-horizontal-scroll-view#readme"
+}
