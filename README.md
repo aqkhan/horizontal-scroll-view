@@ -46,7 +46,7 @@ const Item: React.FC<InnerProps> = (props) => {
 | Props |  Types | Description | Required | Default |
 |-------|--------|-------------|----------|---------|
 |  data | array  | Array of object on which the loop will be applied and individual object will be returned to Component  |  true | false  |
-|  Component | Component | The component on which the loop will be applied and and single object will be passed as a parameter | true | false |
+|  Component | Component | The component on which the loop will be applied and and single object will be passed as props to this component | true | false |
 |  wrapperClass | string  | class will be applied on the wrapping div  | false  | - |
 | scrollLength  | number  | How much the scroll should jump on left or right contorl click |  false | 40 |
 | showControls | bool  | Show/hide left right arrows  | false | false |
