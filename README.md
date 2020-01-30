@@ -9,7 +9,7 @@ OR
 yarn add horizontal-scroll-view
 ````
 
-###How to use?
+### How to use?
 
 ````
 import Horizontal from "horizontal-scroll-view";
