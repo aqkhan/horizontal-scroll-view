@@ -9,6 +9,10 @@ OR
 yarn add horizontal-scroll-view
 ````
 
+### Demo
+
+![](demo.gif)
+
 ### How to use?
 
 ````
