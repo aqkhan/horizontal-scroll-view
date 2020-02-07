@@ -11,7 +11,7 @@ yarn add horizontal-scroll-view
 
 ### Demo
 
-![](demo.gif)
+![](https://alpha-squad-docs.s3.amazonaws.com/images/demo.gif)
 
 ### How to use?
 

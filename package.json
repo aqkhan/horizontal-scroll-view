@@ -1,6 +1,6 @@
 {
   "name": "@alphasquad/horizontal-scroll-view",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Horizontal scroll view.",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/aqkhan/react-horizontal-scroll-view/issues"
   },
-  "homepage": "https://github.com/aqkhan/react-horizontal-scroll-view#readme"
+  "homepage": "https://github.com/aqkhan/react-horizontal-scroll-view#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.5"
+  }
 }
