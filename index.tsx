@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import Style from "./style";
 
 interface propsObject {
@@ -11,7 +11,6 @@ interface propsObject {
 
 const HorizontalScroll: React.FC<propsObject>  = (props) => {
     let {data, Component, wrapperClass, scrollLength, showControls} = props;
-    // const [isDown, setIsDown] = useState(false);
 
     useEffect(() => {
         const slider = document.getElementById('scrollWrapper');
