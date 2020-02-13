@@ -2,11 +2,11 @@
 
 Horizontal scroll view. Ability to scroll on drag.
 ````
-npm i horizontal-scroll-view
+npm i @alphasquad/horizontal-scroll-view
 
 OR
 
-yarn add horizontal-scroll-view
+yarn add @alphasquad/horizontal-scroll-view
 ````
 
 ### Demo

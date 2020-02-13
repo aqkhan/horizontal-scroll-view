@@ -1,6 +1,6 @@
 {
   "name": "@alphasquad/horizontal-scroll-view",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Horizontal scroll view.",
   "main": "lib/index.js",
   "types": "lib",
